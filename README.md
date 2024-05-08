@@ -8,7 +8,7 @@
 ## HackerRank 
 
 ### Domains
-- ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved](https://img.shields.io/badge/Solved-44/44-008000.svg)
+- ⚙ [C++](https://github.com/ruturajlaad/Cpp_Hackerrank) ![problems-solved](https://img.shields.io/badge/Solved-09/44-008000.svg)
 - 🧮 [Mathematics](https://github.com/anishLearnsToCode/hackerrank-math) ![problems-solved](https://img.shields.io/badge/Solved-25/284-00ffff.svg)
 
 ### Tutorials
